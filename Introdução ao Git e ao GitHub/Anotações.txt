@@ -1,0 +1,3 @@
+Link para o download do Git: https://git-scm.com/downloads
+Link para a documentação do Git: https://git-scm.com/docs
+Git Cheat Sheets: https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/
